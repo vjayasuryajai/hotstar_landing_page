@@ -1,0 +1,36 @@
+.im{
+
+
+
+    height: 100%;
+    width:100%;
+    position: relative;
+    vertical-align: middle;
+}
+
+.super{
+
+margin : 10px 10px 20px 10px;
+width: 1330px;
+height: 400px;
+
+    background-color: rgb(3,11,23)
+}
+
+.overview{
+
+    position: absolute;
+    bottom: 8px;
+  right: 16px;
+    color:white;
+    text-decoration: tomato;
+
+    
+    
+}
+.overview p{
+
+color: white;
+font-size:larger;
+font-display:initial
+}
